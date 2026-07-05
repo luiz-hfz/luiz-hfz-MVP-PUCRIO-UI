@@ -2,8 +2,7 @@
 
 ## Autor
 
-Ana Cristina Fernandes Lima
-
+Luiz Henrique Costa Oliveira Fernandes
 ## Instituição
 
 Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio)
